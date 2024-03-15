@@ -1,3 +1,4 @@
+// npm install ethers@5.7.2
 const { ethers } = require("ethers");
 
 // Conectar ao provedor da Rede Ronin
